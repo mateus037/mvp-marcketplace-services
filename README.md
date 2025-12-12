@@ -25,6 +25,6 @@ npm run dev
 
 ## Docker
 ```bash
-docker build -t mvp-marcketplace-services .
-docker run -p 3002:3002 mvp-marcketplace-services
+docker build -t mvp-marketplace-services .
+docker run -p 3002:3002 mvp-marketplace-services
 ```
